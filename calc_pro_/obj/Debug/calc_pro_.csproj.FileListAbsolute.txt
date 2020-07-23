@@ -1,0 +1,10 @@
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\bin\Debug\calc_pro_.exe.config
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\bin\Debug\calc_pro_.exe
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\bin\Debug\calc_pro_.pdb
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.csprojAssemblyReference.cache
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.Form1.resources
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.Properties.Resources.resources
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.csproj.GenerateResource.cache
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.csproj.CoreCompileInputs.cache
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.exe
+C:\Users\tjtap\source\repos\calc_pro_ns\calc_pro_\obj\Debug\calc_pro_.pdb
